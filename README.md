@@ -63,6 +63,3 @@ The following files are used:
 - NumPy
 - Joblib
 - HTML and CSS
-- 
-   ```bash
-   pip install -r requirements.txt
